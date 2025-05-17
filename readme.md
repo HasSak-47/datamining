@@ -1,0 +1,9 @@
+`pipenv run -m src 1`: limpiar csv
+`pipenv run -m src 2`: tarea 2
+`pipenv run -m src 3`: tarea 3
+`pipenv run -m src 4`: tarea 4
+`pipenv run -m src 5`: tarea 5
+`pipenv run -m src 6`: tarea 6
+`pipenv run -m src 7`: tarea 7
+`pipenv run -m src 8`: tarea 8
+`pipenv run -m src 9`: tarea 9
