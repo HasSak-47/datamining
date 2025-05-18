@@ -15,7 +15,7 @@ def main():
     
     # 1. Histogram
     for col in ["number_of_reviews", "review_scores_rating"]:
-        plt.hist(df[col].dropna(), bins=30)
+        plt.hist(df[col], bins=30)
         plt.title(f"Histogram of {col}")
         plt.show()
     
