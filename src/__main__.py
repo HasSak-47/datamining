@@ -13,7 +13,7 @@ def main():
         print('arg was not a number!')
         exit(-1)
 
-    importlib.import_module(f'src.t{hw}')
+    importlib.import_module(f'src.t{hw}').main()
 
     pass
 if __name__ == "__main__":
