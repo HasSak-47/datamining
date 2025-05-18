@@ -16,7 +16,6 @@ def main():
         
         'number_of_reviews', 'first_review', 'last_review', 
         'review_scores_rating', 'review_scores_cleanliness',
-        
     ]
     
     df_filtered = df[useful_columns]
